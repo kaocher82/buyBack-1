@@ -23,7 +23,7 @@
             reference ID into contract description. Then hit submit. Wait for contract to be accepted
             and collect your isk.</p>
 
-        <p style="font-size:large;">Location of Loot: <br></p>
+        <p style="font-size:large;">Location of Loot: {{BUYBACK_DATA[location].name}}<br></p>
 
         <select ng-model="location" ng-change="calculateTotals();">
              <option ng-repeat="system in BUYBACK_DATA" value="{{$index}}" ng-bind="system.name"></option>
