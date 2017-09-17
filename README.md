@@ -40,7 +40,9 @@ Discord: Blacksmoke16#1684
    * item_data_url - Path to the itemData.php script
    * submit_url - Path to the submit.php script
    
- Note:  This is just a skeleton, as such there is not much of a style included.  Will have to setup/import/use your own classes to style it to taste.
+For added security change the `Access-Control-Allow-Origin` headers in both submit.php and itemData.php based on your setup to prevent other froms submiting outside of your host.
+   
+Note:  This is just a skeleton, as such there is not much of a style included.  Will have to setup/import/use your own classes to style it to taste.
  
  ## Default Group IDs
 |group\_id|group\_name|
