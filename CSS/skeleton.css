@@ -1,0 +1,35 @@
+* {
+    text-align:center !important;
+}
+
+.totals>p{
+    margin: 0;
+    padding: 0;
+}
+
+#value {
+    color: green;
+    font-size: xx-large;
+}
+
+#volume {
+    color: red;
+    font-size: large;
+    padding-bottom: 10px;
+}
+
+button#submit {
+    margin: 15px;
+}
+
+table#itemListing {
+    border-collapse: collapse;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+table,th,td,tr#itemListing {
+    border: 1px solid black;
+}
