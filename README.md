@@ -3,6 +3,13 @@ Simple web based skeleton for corp/alliance buyback programs.  Nearly plug in pl
 
 https://imgur.com/XcC1meU
 
+Issues and PRs welcomed.  
+
+## Contact Info
+In-game: Blacksmoke16
+
+Discord: Blacksmoke16#1684
+
 ## Requirements
  * MySQL database, or edit to work with database of your choice.
  * EVE SDE invTypes table.
@@ -57,14 +64,4 @@ https://imgur.com/XcC1meU
 |467|Gneiss|
 |468|Mercoxit|
 |469|Omber|
-|754|Salvaged Materials|
-
- 
- ## Contact Info
-
-In-game: Blacksmoke16
-Discord: Blacksmoke16#1684
-
- 
- 
- 
+|754|Salvaged Materials| 
